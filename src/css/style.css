@@ -1,0 +1,45 @@
+.homepage-hero-module{
+
+}
+
+.card-enquire{
+  background-color: #FFFFFF;
+  box-shadow: -4px 2px 13px 0 rgba(85, 95, 126, 0.18);
+  width: 339px;
+  height: 492px;
+}
+.text-paediatric{
+  color: #FFFFFF;
+  font-family: Titillium;
+  font-size: 31px !important;
+  letter-spacing: 1.28px;
+  line-height: 40px;
+  width: 622px;
+  text-align: left;
+}
+
+.card-img-top {
+  width: 251px;
+  height: 151px;
+}
+
+.card{
+  align-items: center;
+  border: none;
+}
+
+.para{
+  width: 71%;
+  align-items: center;
+  margin-left: 110px;
+}
+.btn-1{
+  background: ##DD5A6A !important;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
